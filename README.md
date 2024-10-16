@@ -26,4 +26,8 @@
 3. Виконайте команду:
      ```bash
    node polindrom.js [ваше слово]
+
+## Приклади
+![{E2DE6C93-93BA-4E43-B12D-1E8A8791552E}](https://github.com/user-attachments/assets/52a05c66-71d9-479a-b022-ff014d7742f0)
+
      
